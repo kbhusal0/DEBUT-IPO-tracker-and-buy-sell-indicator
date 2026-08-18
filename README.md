@@ -1,6 +1,6 @@
-# 🎬 Debut
+# Debut
 
-A live-updating dashboard that tracks IPOs, pulls their real price history,
+A live-updating dashboard that tracks IPOs, pulls real price history,
 and uses a simple ML model to flag whether a recent IPO is trending more
 like a historical winner or a historical loser.
 
@@ -8,7 +8,7 @@ Built as a learning project to practice: working with real financial data
 APIs, designing a small SQLite schema, feature engineering, training a
 basic classification model, and shipping it as an interactive app.
 
-> ⚠️ **This is an educational/portfolio project, not financial advice.**
+> ** This is an educational/portfolio project, not financial advice.**
 > The prediction model is trained on a small, hand-picked set of past IPOs
 > and should not be used to make real investment decisions.
 
